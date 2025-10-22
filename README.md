@@ -40,15 +40,15 @@ python3 main.py https://example.com
 
 ### Use 20 threads with 0.5 second delay
 ```
-python termux_mirror.py https://example.com -t 20 -d 0.5
+python main.py https://example.com -t 20 -d 0.5
 ```
 ### Enable verbose logging
 ```
-python termux_mirror.py https://example.com -v
+python main.py https://example.com -v
 ```
 ### Full example with all options
 ```
-python termux_mirror.py https://example.com -t 15 -d 0.2 -v --no-banner
+python main.py https://example.com -t 15 -d 0.2 -v --no-banner
 ```
 ### Repo Visits
 ![Visitor Count](https://count.getloli.com/@websitedwnldr?name=websitedwnldr&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
