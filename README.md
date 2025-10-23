@@ -25,9 +25,9 @@ Internet connection
 
 ## 🔧 Installation
 ```
-git clone https://github.com/sawwqib/Website-Resource-Downloader.git
+git clone https://github.com/sawwqib/Web-clone.git
 
-cd Website-Resource-Downloader
+cd Web-clone
 
 # Install dependencies
 pip install -r requirements.txt
